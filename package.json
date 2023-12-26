@@ -1,6 +1,7 @@
 {
   "name": "my-app",
   "version": "0.0.0",
+  "description": "Notus Angular - Free Tailwind CSS UI Kit and Admin by Creative Tim.",
 "scripts": {
     "ng": "ng",
     "start": "ng serve --host 0.0.0.0 --poll 1000 ",
